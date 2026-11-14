@@ -17,7 +17,7 @@ Interactive frontend featuring dynamic slicers, KPIs, and demographic breakdowns
 
 ### 2. Pivot Report Backend
 The data aggregation engine powering the dashboard's interactive elements.
-pivot report.png
+![Pivot Report Engine](pivot-report.png)
 
 ## ⚙️ Core Features & Analytics
 - **Dynamic KPI Tracking:** Real-time calculation of **Total Sales ($5.8M+)**, **Total Quantity (25K+)**, and **Average Sales**.
