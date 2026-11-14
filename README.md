@@ -19,6 +19,9 @@ Interactive frontend featuring dynamic slicers, KPIs, and demographic breakdowns
 The data aggregation engine powering the dashboard's interactive elements.
 ![Pivot Report Engine](pivot-report.png)
 
+### Video Demo
+Watch the full video demonstration of the dashboard in action here:https://drive.google.com/file/d/1EBXsT_Qdt1wucJf3TuBN7CtFhCM6Yhrl/view?usp=sharing
+
 ## ⚙️ Core Features & Analytics
 - **Dynamic KPI Tracking:** Real-time calculation of **Total Sales ($5.8M+)**, **Total Quantity (25K+)**, and **Average Sales**.
 - **Interactive Slicers:** One-click filtering by **Region** (Central, East, South, West) and **Order Year**.
